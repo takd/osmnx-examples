@@ -1,3 +1,7 @@
+# Magyar települések utcáinak orientációja
+
+Az OSMnx programkönyvtár 17. példája alapján. A generált képek az `images/` mappában találhatóak.
+
 # OSMnx Examples
 
 All of the examples are in this repo's [notebooks](notebooks) folder.
