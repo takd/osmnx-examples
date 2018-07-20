@@ -2,6 +2,10 @@
 
 Az OSMnx programkönyvtár 17. példája alapján. A generált képek a `notebooks/images/` mappában találhatóak.
 
+-------
+
+Köszönet a részletes elemzésért Zubreczki Dávidnak az Urbanistától: https://index.hu/urbanista/2018/07/20/magyar_varosok_tajolasa/
+
 # OSMnx Examples
 
 All of the examples are in this repo's [notebooks](notebooks) folder.
